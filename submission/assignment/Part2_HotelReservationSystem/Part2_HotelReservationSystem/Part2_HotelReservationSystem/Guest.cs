@@ -7,7 +7,7 @@ public class Guest
     public string PhoneNumber { get; }
 
     private List<Reservation> _reservations = new();
-    public IReadOnlyList<Reservation> ReservationS => _reservations;
+    public IReadOnlyList<Reservation> Reservations => _reservations;
 
     public Guest(int guestId, string fullName, string phoneNumber)
     {
