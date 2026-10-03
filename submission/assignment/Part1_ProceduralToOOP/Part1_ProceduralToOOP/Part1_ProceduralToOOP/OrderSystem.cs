@@ -144,30 +144,5 @@ public class OrderSystem
         return total;
     }
     
-    public void SeedSampleData()
-    {
-        AddCustomer(new Customer(1, "Mona Ali", "mona@example.com", "Cairo", true));
-        AddCustomer(new Customer(2, "Omar Hassan", "omar@example.com", "Alexandria", false));
-        AddCustomer(new Customer(3, "Sara Nabil", "sara@example.com", "Giza", false));
-    
-        AddProduct(new Product(101, "USB Cable", 50.0, 100));
-        AddProduct(new Product(102, "Wireless Mouse", 250.0, 40));
-        AddProduct(new Product(103, "Mechanical Keyboard", 1200.0, 15));
-        AddProduct(new Product(104, "Laptop Stand", 400.0, 25));
-    }
-    public void RunDemoScenario()
-    {
-        CreateOrder(1001, 1, "2026-09-15");
-        AddLineToOrder(1001, 101, 2);
-        AddLineToOrder(1001, 102, 1);
-        MarkOrderPaid(1001);
-    
-        CreateOrder(1002, 2, "2026-09-15");
-        AddLineToOrder(1002, 103, 1);
-        AddLineToOrder(1002, 104, 1);
-    
-        CreateOrder(1003, 3, "2026-09-16");
-        AddLineToOrder(1003, 101, 5);
-        MarkOrderPaid(1003);
-    }
+   
 }
