@@ -1,0 +1,15 @@
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.exe
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.deps.json
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.runtimeconfig.json
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.dll
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.pdb
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfo.cs
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.sourcelink.json
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.dll
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\refint\Part3_BuilderPattern.dll
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.pdb
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.genruntimeconfig.cache
+C:\Users\moham\raghdaa-gad-OOP-Assignment-1\submission\assignment\Part3_BuilderPattern\ Part3_BuilderPattern\ Part3_BuilderPattern\obj\Debug\net10.0\ref\Part3_BuilderPattern.dll
