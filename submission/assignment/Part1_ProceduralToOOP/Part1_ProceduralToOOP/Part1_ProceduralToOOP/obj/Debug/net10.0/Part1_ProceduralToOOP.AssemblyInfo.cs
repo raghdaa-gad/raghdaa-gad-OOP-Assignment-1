@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Part1_ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7eeac10aaed91707aaa41a336b6e3601ea9fee0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3583549b6594428fc33739381b5bad48a7ad76ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Part1_ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Part1_ProceduralToOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
