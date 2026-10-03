@@ -15,6 +15,7 @@ class Program
         system.AddProduct(new Product(103, "Mechanical Keyboard", 1200.0, 15));
         system.AddProduct(new Product(104, "Laptop Stand", 400.0, 25));
 
+
         // Demo Scenario
         system.CreateOrder(1001, 1, "2026-09-15");
         system.AddLineToOrder(1001, 101, 2);
