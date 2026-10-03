@@ -30,5 +30,6 @@ The same AddressBuilder can be used for both Billing Address and Shipping Addres
 Readability at the Call Site:
 
 •In Task 3.2 InvoiceBuilder handled Customer Addresses Order Payment and Amounts
+
 •In Task 3.3 each part is built separately and then combined. This makes the code easier to read and understand
 
